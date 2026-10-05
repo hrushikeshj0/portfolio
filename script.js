@@ -1,7 +1,3 @@
-/*
-  Set this before publishing. Leaving it empty keeps the local demo private and
-  opens a drafted message without a pre-addressed recipient.
-*/
 const CONTACT_EMAIL = "hrushij0208@gmail.com";
 
 const header = document.querySelector("[data-header]");
